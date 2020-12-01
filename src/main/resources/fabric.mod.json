@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "customrecordsyeah",
+  "version": "1.0.0",
+
+  "name": "Custom Records",
+  "description": "Put in oggs and get records!",
+  "authors": [
+    "Teo"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/customrecordsyeah/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.teo.customrecords.Customrecords"
+    ]
+  },
+  "mixins": [
+    ""
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
