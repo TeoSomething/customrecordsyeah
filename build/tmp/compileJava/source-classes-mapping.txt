@@ -1,0 +1,6 @@
+com/teo/customrecords/registry/Moditems.java
+ com.teo.customrecords.registry.Moditems
+com/teo/customrecords/registry/Recordsoundevents.java
+ com.teo.customrecords.registry.Recordsoundevents
+com/teo/customrecords/Customrecords.java
+ com.teo.customrecords.Customrecords
